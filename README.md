@@ -1,1 +1,1 @@
-# Diwal--Dataset
+# Diwali--Dataset
